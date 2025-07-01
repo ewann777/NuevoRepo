@@ -1,7 +1,7 @@
 #hola
 
 #Hola
-
+segunda_suma = 6 +7
 suma = 1 + 1
 print(suma)
 def registrar():
