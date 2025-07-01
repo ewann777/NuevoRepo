@@ -1,3 +1,6 @@
+#hola
+
+
 def registrar():
     while True:
         nombre=input('Ingrese Nombre del Volcán: ')
