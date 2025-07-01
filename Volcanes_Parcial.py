@@ -2,6 +2,8 @@
 
 #Hola
 
+suma = 1 + 1
+print(suma)
 def registrar():
     while True:
         nombre=input('Ingrese Nombre del Volcán: ')
