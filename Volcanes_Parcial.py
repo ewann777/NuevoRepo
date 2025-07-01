@@ -2,6 +2,7 @@
 print("!")
 #Hola
 segunda_suma = 6 +7
+carlos= 1
 suma = 1 + 1
 print(suma)
 def registrar():
